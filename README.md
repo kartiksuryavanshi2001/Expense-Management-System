@@ -4,15 +4,15 @@ This project is an expense management system that consists of a Streamlit fronte
 
 ## Project Structure
 
-_ **frontend/**: Contains the Streamlit application code.
+ **frontend/**: Contains the Streamlit application code.
 
-_ **backend/**: Contains the FastAPI backend server code.
+ **backend/**: Contains the FastAPI backend server code.
 
-_ **tests/**: Contains the test cases for both frontend and backend.
+ **tests/**: Contains the test cases for both frontend and backend.
 
-_ **requirements.txt**: Lists the required Python packages.
+ **requirements.txt**: Lists the required Python packages.
 
-_ **README.md**: Provides an overview and instructions for the project.
+ **README.md**: Provides an overview and instructions for the project.
 
 ## Setup Instructions
 
@@ -54,3 +54,4 @@ which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
 **Do not** commit this to version control.
 
 See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
+
